@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Roberto 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+
 Sou estudante de **Desenvolvimento de Sistemas** na **Etec de Guaianases - Centro Paula Souza**, atualmente focado em aprender e evoluir como desenvolvedor, com interesse especial nas áreas 
 de **back-end** e **banco de dados**, mas também explorando o universo do **front-end**.
 
