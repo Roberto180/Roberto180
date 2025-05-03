@@ -35,14 +35,14 @@ de **back-end** e **banco de dados**, mas também explorando o universo do **fro
 ---
 <pre align="center">
   📫 Contato
-Achou algo legal? Tem uma dúvida ou sugestão? Bora bater um papo!
+Achou algo legal❔ Tem uma dúvida ou sugestão❔ Bora bater um papo‼
 Me chama aqui:
   
 </pre>
 
-  <p align="center">
-      <a href="mailto:felixroberto0105@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt=Roberto_Felix/></a> 
-  <a href="https://www.linkedin.com/in/roberto-félix-95078a358/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt=Roberto_Felix/></a> 
-  <a href="https://www.instagram.com/r.felix_0/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Roberto_Felix/></a> 
+<p align="center">
+  <a href="Email:felixroberto0105@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt=Email/></a> 
+  <a href="https://www.linkedin.com/in/roberto-félix-95078a358/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt=Linkedin/></a> 
+  <a href="https://www.instagram.com/r.felix_0/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram/></a> 
 
 </p>
