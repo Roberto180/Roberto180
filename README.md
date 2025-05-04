@@ -14,29 +14,6 @@ de **back-end** e **banco de dados**, mas também explorando o universo do **fro
 <div align="center">
 
 ## 💻 Tecnologias e Conhecimentos
-  
-### 🖥️ Front-end
-<br>
-
-<table>
-  <tr>
-    <td>
-     <div align="left">
-<img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><br><br><br><br>
-<img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="center"/>
-</div>
-    </td>
-    <td>
-    <pre align="left">
-   HTML & CSS – criando e estilizando páginas web, aprendendo a montar layouts 
-   responsivos e estruturas bem organizadas.
-   <br><br>  
-   JavaScript – estudando a linguagem para adicionar interatividade às páginas, criar 
-   funcionalidades dinâmicas e entender seu papel no front-end.
-      </pre>
-    </td>
-  </tr>
-</table>
 
 
 ### 🧠 Lógica e Fundamentos
@@ -54,6 +31,30 @@ de **back-end** e **banco de dados**, mas também explorando o universo do **fro
 <pre align="left">
  - Banco de Dados – aprendendo modelagem, fazendo consultas com SQL e organizando dados de forma eficiente.
 </pre>
+
+  
+### 🖥️ Front-end
+<br>
+
+<table>
+  <tr>
+    <td>
+     <div align="left">
+<img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><br><br><br><br>
+<img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="center"/>
+</div>
+    </td>
+    <td>
+    <pre align="left"><br>  
+   HTML & CSS – criando e estilizando páginas web, aprendendo a montar layouts 
+   responsivos e estruturas bem organizadas.
+   <br><br>  
+   JavaScript – estudando a linguagem para adicionar interatividade às páginas, criar 
+   funcionalidades dinâmicas e entender seu papel no front-end.
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Back-end / Linguagens de Programação
 <br>
@@ -92,7 +93,7 @@ de **back-end** e **banco de dados**, mas também explorando o universo do **fro
 <br>
 <div display="flex" align="center">
 <p>
-  <img alt="GitHub Stats" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Roberto180&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /><img alt="GitHub Stats" height="150" wifth="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto180&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img alt="GitHub Stats" height="180" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Roberto180&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /><img alt="GitHub Stats" height="180" wifth="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto180&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 </div>
 <br>
@@ -109,7 +110,7 @@ de **back-end** e **banco de dados**, mas também explorando o universo do **fro
     </td>
     <td>
       <pre>
-Achou algo legal❔ Tem uma dúvida ou sugestão❔ Bora bater um papo‼
+Achou algo legal❔Tem uma dúvida ou sugestão❔Bora bater um papo‼
 Me chama aqui ⬇
       </pre>
 <p align="center">
