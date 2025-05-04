@@ -1,46 +1,53 @@
 <img src="assets/ds1.gif" width="100%">
 <div align:"center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=5000&size=50&duration=4000&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!+Eu+Sou+o+Roberto+%E2%9C%A9" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=5000&size=50&duration=4000&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!+I'm+Roberto+%E2%9C%A9" width="100%" />
 </div>
 
 Sou estudante de **Desenvolvimento de Sistemas** na **Etec de Guaianases - Centro Paula Souza**, atualmente focado em aprender e evoluir como desenvolvedor, com interesse especial nas áreas 
 de **back-end** e **banco de dados**, mas também explorando o universo do **front-end**.
 
 ---
-#### **Tecnologias que estou estudando:**
-
 <br />
-  
 <div align="center">
 
 ## 💻 Tecnologias e Conhecimentos
 
 
 ### 🧠 Lógica e Fundamentos
-<br>
 
+<br>
 <pre align="left">
- - Lógica de Programação – a base fundamental para entender qualquer linguagem; praticando
-   resolução de problemas e pensamento computacional.
+ - Lógica de Programação – a base fundamental para entender qualquer linguagem; praticando resolução de problemase pensamento 
+  computacional.
 </pre>
 
 
 ### 🗃️ Banco de Dados
+
 <br>
-
-<pre align="left">
- - Banco de Dados – aprendendo modelagem, fazendo consultas com SQL e organizando dados de forma eficiente.
-</pre>
-
-  
-### 🖥️ Front-end
-<br>
-
 <table>
   <tr>
     <td>
-     <div align="left">
-<img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><br><br><br><br>
+    <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png">
+    </td>
+    <td>
+  <pre align="left">
+  Banco de Dados – aprendendo modelagem, fazendo consultas com SQL e organizando dados de 
+  forma eficiente.
+  </pre>
+    </td>
+  </tr>
+</table>
+
+### 🖥️ Front-end
+
+<br>
+<table>
+  <tr>
+    <td>
+     <div align="left"><br>
+<img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<br><br><br>
 <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="center"/>
 </div>
     </td>
@@ -57,24 +64,24 @@ de **back-end** e **banco de dados**, mas também explorando o universo do **fro
 </table>
 
 ### ⚙️ Back-end / Linguagens de Programação
-<br>
 
+<br>
 <table>
   <tr>
     <td><div align="left">
 <img alt="Python"title="Python"width="30px"style="paddingright:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 <br><br><br><br>
-<img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" />
 <br><br><br><br>
 <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     </div>
     </td>
     <td>
       <div align="left">
-      <pre>
+      <pre><br>
   Python – minha linguagem principal no momento; estou focando em projetos, automações e 
   aprofundando a lógica com ela. 
-  <br><br><br>
+  <br><br>
   C++ – explorando conceitos mais profundos como ponteiros, manipulação de memória e 
   programação de alto desempenho.  
   <br><br><br>
