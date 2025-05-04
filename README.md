@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" width="100%">
+<img src="assets/ds1.gif" width="100%">
 <div align:"center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=5000&size=50&duration=4000&pause=200&color=FF0000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!+Eu+Sou+o+Roberto+%E2%9C%A9" width="100%" />
 </div>
